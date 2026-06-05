@@ -14,9 +14,9 @@
 
                                                                    ARRAYS
 
-1) #53   Maximum Subarray                 - completed
-2) #11   Container With Most Water        - completed
-3) #15   3Sum                             - completed
-4) #238  Product of Array Except Self     - completed
-5) #56   Merge Intervals                   ← current
-6) #33   Search in Rotated Array
+1) #53   Maximum Subarray                 -                          kadane                           -          completed
+2) #11   Container With Most Water        -                    two pointer + greedy                   -          completed
+3) #15   3Sum                             -                    sorting + two pointer                  -          completed
+4) #238  Product of Array Except Self     -                       Prefix + Suffix                     -          completed
+5) #56   Merge Intervals                  -                       Sorting + Greedy                    -          completed
+6) #33   Search in Rotated Array                                                                                 ← current
