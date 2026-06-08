@@ -21,6 +21,15 @@
 5) #56   Merge Intervals                  -                       Sorting + Greedy                    -          completed
 6) #33   Search in Rotated Array                                                                                 ← current
 
+
+                                                                 bit manupilation
+1) # 191. Number of 1 Bits                -                      &, >>, Brian Kernighan               -          completed
+2) #
+3) #
+4) #
+5) #
+
+   
                                                                    linked list
 
 | #206 Reverse Linked List                -                   Pointer manipulation                    -         ← current
