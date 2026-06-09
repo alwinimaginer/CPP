@@ -23,8 +23,11 @@
 
 
                                                                  bit manupilation
-1) no of set bits                         -                   brian algorithm                         -          completed
-2) single number                          - 
+1) #191 no of set bits                         -                   brian algorithm (n = n & (n - 1))   -          completed
+2) #136 single number                          -                   XOR logic ( ans ^= list )           -          completed
+3) #
+4) #
+5) #
    
                                                                    linked list
 
