@@ -19,15 +19,14 @@
 3) #15   3Sum                             -                    sorting + two pointer                  -          completed
 4) #238  Product of Array Except Self     -                       Prefix + Suffix                     -          completed
 5) #56   Merge Intervals                  -                       Sorting + Greedy                    -          completed
-6) #33   Search in Rotated Array                                                                                 ← current
+6) #33   Search in Rotated Array                                                                                 ← pending
 
 
-                                                                 bit manupilation
+                                                                 bit manipulation
 1) #191 no of set bits                         -                   brian algorithm (n = n & (n - 1))   -          completed
 2) #136 single number                          -                   XOR logic ( ans ^= list )           -          completed
-3) #
-4) #
-5) #
+3) #338 counting bits                          -                   brute force                         -          completed
+   #338 count bits ( c )                       ←                   current (tomorrow)
    
                                                                    linked list
 
