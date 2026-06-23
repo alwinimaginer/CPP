@@ -27,6 +27,10 @@
 2) #136 single number                          -                   XOR logic ( ans ^= list )           -          completed
 3) #338 counting bits                          -                   brute force                         -          completed
    #338 count bits ( c )                       ←                   current (tomorrow)
+
+                                                                 STACK
+1) #20 valide parentheses                      -                  push , top , pop                     -          completed
+2) #
    
                                                                    linked list
 
