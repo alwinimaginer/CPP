@@ -32,10 +32,4 @@
 1) #20 valide parentheses                      -                  push , top , pop                     -          completed
 2) #
    
-                                                                   linked list
 
-| #206 Reverse Linked List                -                   Pointer manipulation                    -         ← current
-| #141 Linked List Cycle                  -                    Fast/Slow pointers                     -
-| #876 Middle of Linked List              -                    Pointer traversal                      - 
-| #19 Remove Nth Node From End            -                   Multi-pointer logic                     - 
-| #21 Merge Two Sorted Lists              -                       Node linking                        -     
