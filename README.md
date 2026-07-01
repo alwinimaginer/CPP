@@ -30,6 +30,6 @@
 
                                                                  STACK
 1) #20 valide parentheses                      -                  push , top , pop                     -          completed
-2) #
+2) #155 min stack                              -                  push , top , pop , vector            -          completed
    
 
